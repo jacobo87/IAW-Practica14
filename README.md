@@ -6,8 +6,14 @@
 ## Práctica 14: Instalación de Drupal con Bitnami
 En esta práctica tendremos que realizar la implantación de [Drupal](https://es.wikipedia.org/wiki/Drupal) en [Amazon Web Services (AWS)](https://aws.amazon.com/es/) con la última versión de [Ubuntu Server](https://ubuntu.com/) y la posterior instalación de [Bitnami](https://bitnami.com/).
 
-- Instalación
-![Install](/images/ec21.png)
+- Creamos la instancia con 2GB de memoria RAM
+![Install](/images/ec1.png)
+
+- Añadimos los puertos que queremos usar en el grupo de seguiridad
+![Install](/images/ec2.png)
+
+- Descargamos las herramientas necesarias e iniciamos el proceso de instalación
+![Install](/images/ec3.png)
 
 
 ## REFERENCIAS
