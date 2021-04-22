@@ -15,6 +15,14 @@ En esta práctica tendremos que realizar la implantación de [Drupal](https://es
 - Descargamos las herramientas necesarias e iniciamos el proceso de instalación
 ![Install](/images/ec3.png)
 
+- Definimos el usuario administrador y el nombre del sitio
+![Install](/images/ec4.png)
+
+- Finalizada la instalación accedemos a la IP de nuestro sitio
+![Install](/images/ec5.png)
+
+
+
 
 ## REFERENCIAS
 - [José Juan Sanchez](https://josejuansanchez.org/iaw/practica-13/index.html)
